@@ -1,8 +1,8 @@
 <h1 align="center">
     <a href="https://europequalitegroup.com/fr">
         <picture>
-            <source width="300" media="(prefers-color-scheme: dark)" srcset="https://europequalitegroup.com/img/logo_black.svg">
-            <img width="300" alt="Europe Qualité" src="https://europequalitegroup.com/img/logo.svg">
+            <source width="300" media="(prefers-color-scheme: dark)" srcset="https://europequalitegroup.com/img/logo.svg">
+            <img width="300" alt="Europe Qualité" src="https://europequalitegroup.com/img/logo_black.svg">
         </picture>
     </a>
 </h1>
